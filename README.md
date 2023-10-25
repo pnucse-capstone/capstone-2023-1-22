@@ -21,8 +21,10 @@ ISO5055 분석 및 매핑 테이블 작성
 ## 3. 구성도
 ## 4. 소개 및 시연 영상
 ## 5. 사용법
+
 * 실행 환경
 본 프로젝트는 Java Development Kit 17 이상의 InteliJ 환경에서 개발되었으며 이외의 환경에서 소스코드를 통해 실행할 경우 SoftwareQuality 경로 내부의 jfreechart-1.5.4.jar 라이브러리를 사용하기위해 링크하여야함.
+
 
 * 사용법
 1. 품질을 측정하고자 하는 C 소프트웨어의 소스코드를 Polyspace를 통하여 분석한다. 이 때 Code Prover에서는 Code Metric을 측정하고 Bug Finder에서는 Misra C와 Cert C, CWE를 체크하도록 설정한다.
