@@ -19,7 +19,8 @@ ISO5055 분석 및 매핑 테이블 작성
 포스터 제작, 보고서 작성
 
 ## 3. 구성도
-[구성도](https://github.com/pnucse-capstone/capstone-2023-1-22/assets/80205593/788d7d5e-c26f-4fac-a73f-7e7884b91070)<br>
+[깃헙구성도](https://github.com/pnucse-capstone/capstone-2023-1-22/assets/80205593/c24b1f0b-245c-46a8-8874-16074a1913aa)
+<br>
 (1)	Polyspace 프로그램을 이용하여 C 소스코드의 정적 분석을 수행한다. <br>
 (2)	MISRA-C, CERT C, ISO 5055를 활용하여 품질 요구사항과 코딩규칙을 매핑한다. <br>
 (3)	위의 두 결과를 이용하여 품질 지수 측정 계산법을 개발한다. <br>
