@@ -1,0 +1,14 @@
+Code Metric	Project Metrics	Number of Recursions	0	0
+Code Metric	Project Metrics	Number of Direct Recursions	0	0
+Code Metric	File Metrics	Comment Density	20	0
+Code Metric	File Metrics	Estimated Function Coupling	20	0
+Code Metric	Function Metrics	Cyclomatic Complexity	10	0
+Code Metric	Function Metrics	Language Scope	4	0
+Code Metric	Function Metrics	Number of Call Levels	4	0
+Code Metric	Function Metrics	Number of Calling Functions	5	0
+Code Metric	Function Metrics	Number of Called Functions	7	0
+Code Metric	Function Metrics	Number of Function Parameters	5	0
+Code Metric	Function Metrics	Number of Goto Statements	0	0
+Code Metric	Function Metrics	Number of Instructions	50	0
+Code Metric	Function Metrics	Number of Paths	80	0
+Code Metric	Function Metrics	Number of Return Statements	1	0
