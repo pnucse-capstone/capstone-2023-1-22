@@ -30,7 +30,7 @@ ISO5055 분석 및 매핑 테이블 작성
 ## 5. 사용법
 
 * 실행 환경<br>
-본 프로젝트는 Java Development Kit 17 이상의 InteliJ 환경에서 개발되었으며 이외의 환경에서 소스코드를 통해 실행할 경우 SoftwareQuality 경로 내부의 jfreechart-1.5.4.jar 라이브러리를 사용하기위해 링크하여야함.
+본 프로젝트는 Java Development Kit 17 이상의 InteliJ 환경에서 개발되었으며 이외의 환경에서 소스코드를 통해 실행할 경우 SoftwareQuality 경로 내부의 Coding_Guideline.txt와 Code_Metrics.txt 파일을 실행경로에 두고  jfreechart-1.5.4.jar 라이브러리를 사용하기위해 링크하여야함.
 
 
 * 사용법
