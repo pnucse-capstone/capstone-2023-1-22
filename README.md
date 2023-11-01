@@ -27,6 +27,7 @@ ISO5055 분석 및 매핑 테이블 작성
 (4)	점수를 시각화하기 위한 프로그램을 만든다.
 
 ## 4. 소개 및 시연 영상
+(https://www.youtube.com/watch?v=-7czJMYKzzw&list=PLFUP9jG-TDp96chsm66TfMPlAJXIt6Gr9&index=22)
 ## 5. 사용법
 
 * 실행 환경<br>
